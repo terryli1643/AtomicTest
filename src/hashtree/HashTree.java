@@ -1,4 +1,4 @@
-package Test;
+package hashtree;
 import java.io.IOException;
 import java.util.Enumeration;
 
