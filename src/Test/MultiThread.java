@@ -1,4 +1,4 @@
-package test;
+package Test;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;
