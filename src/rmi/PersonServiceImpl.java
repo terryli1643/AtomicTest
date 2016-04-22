@@ -5,8 +5,6 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.LinkedList;
 import java.util.List;
 
-import Test.PersonEntity;
-
 public class PersonServiceImpl extends UnicastRemoteObject implements PersonService {
 
     /**

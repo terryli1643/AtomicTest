@@ -1,4 +1,4 @@
-package Test;
+package thread;
 
 public class FinalExample2 {
     final int i;
